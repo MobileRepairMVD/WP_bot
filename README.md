@@ -38,7 +38,7 @@ SERVICE_API_KEY=TU_API_KEY_DEL_SERVICIO
 
 Clonar la repo desde Gitea:
 
-git clone https://tugitea.com/usuario/wpbot.git
+git clone https://www.mobilerepair.com.uy/git/robin/WP_bot.git
 cd wpbot
 
 Instalar dependencias:
